@@ -1,2 +1,3 @@
-# broker_killer_5000
-I will be creating a robo advisor that will eventually lead to the upturn of financial markets. You have been warned.
+# social_security_5000
+ I will be creating a robo advisor that could be used by clients and potential new clients to get investment portfolio recommendations for retirement.
+
